@@ -1,0 +1,15 @@
+C:\Users\91790\source\repos\ConsoleApp1\BasicProgram\obj\Debug\net6.0\BasicProgram.csproj.AssemblyReference.cache
+C:\Users\91790\source\repos\ConsoleApp1\BasicProgram\obj\Debug\net6.0\BasicProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91790\source\repos\ConsoleApp1\BasicProgram\obj\Debug\net6.0\BasicProgram.AssemblyInfoInputs.cache
+C:\Users\91790\source\repos\ConsoleApp1\BasicProgram\obj\Debug\net6.0\BasicProgram.AssemblyInfo.cs
+C:\Users\91790\source\repos\ConsoleApp1\BasicProgram\obj\Debug\net6.0\BasicProgram.csproj.CoreCompileInputs.cache
+C:\Users\91790\source\repos\ConsoleApp1\BasicProgram\bin\Debug\net6.0\BasicProgram.exe
+C:\Users\91790\source\repos\ConsoleApp1\BasicProgram\bin\Debug\net6.0\BasicProgram.deps.json
+C:\Users\91790\source\repos\ConsoleApp1\BasicProgram\bin\Debug\net6.0\BasicProgram.runtimeconfig.json
+C:\Users\91790\source\repos\ConsoleApp1\BasicProgram\bin\Debug\net6.0\BasicProgram.dll
+C:\Users\91790\source\repos\ConsoleApp1\BasicProgram\bin\Debug\net6.0\BasicProgram.pdb
+C:\Users\91790\source\repos\ConsoleApp1\BasicProgram\obj\Debug\net6.0\BasicProgram.dll
+C:\Users\91790\source\repos\ConsoleApp1\BasicProgram\obj\Debug\net6.0\refint\BasicProgram.dll
+C:\Users\91790\source\repos\ConsoleApp1\BasicProgram\obj\Debug\net6.0\BasicProgram.pdb
+C:\Users\91790\source\repos\ConsoleApp1\BasicProgram\obj\Debug\net6.0\BasicProgram.genruntimeconfig.cache
+C:\Users\91790\source\repos\ConsoleApp1\BasicProgram\obj\Debug\net6.0\ref\BasicProgram.dll
